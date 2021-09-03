@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31220.234
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiPOC", "MauiPOC\MauiPOC.csproj", "{871D1986-C813-4DBA-AA8A-CFEF31F4EBCE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiPOC.WinUI", "MauiPOC.WinUI\MauiPOC.WinUI.csproj", "{A35AACCE-7E35-4037-B389-2DAB42BF1401}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

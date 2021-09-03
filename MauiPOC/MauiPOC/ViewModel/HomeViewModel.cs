@@ -286,7 +286,7 @@ namespace MauiPOC.ViewModel
 			if (!string.IsNullOrWhiteSpace(filterText))
 			{
 				var lower = filterText.ToLowerInvariant();
-				samples = MauiPOC.Where(s =>
+				samples = samples.Where(s =>
 				{
 					var tags = s.Tags
 						.Union(new[] { s.Name })
@@ -295,7 +295,7 @@ namespace MauiPOC.ViewModel
 				});
 			}
 
-			return MauiPOC.OrderBy(s => s.Name);
+			return samples.OrderBy(s => s.Name);
 		}
 	}
 }

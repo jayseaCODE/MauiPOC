@@ -12,7 +12,7 @@ namespace MauiPOC.View
 
 		void Announce_Clicked(object sender, EventArgs e)
 		{
-			SemanticScreenReader.Announce("This is the announcement text");
+			//SemanticScreenReader.Announce("This is the announcement text");
 		}
 	}
 }

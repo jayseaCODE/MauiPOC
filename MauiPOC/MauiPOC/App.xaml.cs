@@ -5,9 +5,6 @@ using Microsoft.Maui.Essentials;
 using MauiPOC.View;
 
 using Device = Microsoft.Maui.Controls.Device;
-
-[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
-
 namespace MauiPOC
 {
 	public partial class App : Application

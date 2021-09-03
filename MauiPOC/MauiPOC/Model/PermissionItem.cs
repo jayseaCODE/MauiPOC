@@ -6,9 +6,9 @@ using System.Windows.Input;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Essentials;
-using Samples.ViewModel;
+using MauiPOC.ViewModel;
 
-namespace Samples.Model
+namespace MauiPOC.Model
 {
 	public class PermissionItem : ObservableObject
 	{

@@ -1,6 +1,6 @@
 using Microsoft.Maui;
 
-namespace Samples.UWP
+namespace MauiPOC.UWP
 {
 	public class MiddleApp : MauiWinUIApplication
 	{

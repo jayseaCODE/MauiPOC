@@ -1,6 +1,6 @@
 using Microsoft.Maui.Essentials;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	public class PreferencesViewModel : BaseViewModel
 	{

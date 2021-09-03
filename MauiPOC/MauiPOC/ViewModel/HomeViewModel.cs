@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Maui.Essentials;
-using Samples.Model;
-using Samples.View;
+using MauiPOC.Model;
+using MauiPOC.View;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	public class HomeViewModel : BaseViewModel
 	{
@@ -286,7 +286,7 @@ namespace Samples.ViewModel
 			if (!string.IsNullOrWhiteSpace(filterText))
 			{
 				var lower = filterText.ToLowerInvariant();
-				samples = samples.Where(s =>
+				samples = MauiPOC.Where(s =>
 				{
 					var tags = s.Tags
 						.Union(new[] { s.Name })
@@ -295,7 +295,7 @@ namespace Samples.ViewModel
 				});
 			}
 
-			return samples.OrderBy(s => s.Name);
+			return MauiPOC.OrderBy(s => s.Name);
 		}
 	}
 }

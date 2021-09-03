@@ -1,7 +1,7 @@
 <views:BasePage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-                xmlns:views="clr-namespace:Samples.View"
-                x:Class="Samples.View.SemanticScreenReaderPage"
+                xmlns:views="clr-namespace:MauiPOC.View"
+                x:Class="MauiPOC.View.SemanticScreenReaderPage"
                 Title="Semantic Screen Reader">
     <StackLayout>
         <Label

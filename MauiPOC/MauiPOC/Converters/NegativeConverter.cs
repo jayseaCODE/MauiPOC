@@ -3,7 +3,7 @@ using System.Globalization;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 
-namespace Samples.Converters
+namespace MauiPOC.Converters
 {
 	public class NegativeConverter : IValueConverter
 	{

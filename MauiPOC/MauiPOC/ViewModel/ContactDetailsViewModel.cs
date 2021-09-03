@@ -1,6 +1,6 @@
 using Microsoft.Maui.Essentials;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	class ContactDetailsViewModel : BaseViewModel
 	{

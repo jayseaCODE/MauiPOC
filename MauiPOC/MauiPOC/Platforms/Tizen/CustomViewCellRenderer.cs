@@ -1,12 +1,12 @@
 using ElmSharp;
-using Samples.Tizen;
+using MauiPOC.Tizen;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Xamarin.Forms.Platform.Tizen;
 
 [assembly: ExportCell(typeof(ViewCell), typeof(CustomViewCellRenderer))]
 
-namespace Samples.Tizen
+namespace MauiPOC.Tizen
 {
 	public sealed class CustomViewCellRenderer : ViewCellRenderer
 	{

@@ -2,12 +2,12 @@
 <views:BasePage  xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://schemas.microsoft.com/dotnet/2021/maui/design"
-             xmlns:views="clr-namespace:Samples.View"
-             xmlns:viewmodels="clr-namespace:Samples.ViewModel"
+             xmlns:views="clr-namespace:MauiPOC.View"
+             xmlns:viewmodels="clr-namespace:MauiPOC.ViewModel"
              xmlns:essentials="clr-namespace:Microsoft.Maui.Essentials;assembly=Microsoft.Maui.Essentials"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="Samples.View.PermissionsPage"
+             x:Class="MauiPOC.View.PermissionsPage"
              Title="Permissions">
 
     <views:BasePage.BindingContext>

@@ -8,7 +8,7 @@ using Microsoft.Maui.Essentials;
 
 using ContactsManager = Microsoft.Maui.Essentials.Contacts;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	class ContactsViewModel : BaseViewModel
 	{

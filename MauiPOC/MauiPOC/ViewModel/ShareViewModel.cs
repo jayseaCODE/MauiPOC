@@ -4,9 +4,9 @@ using System.Windows.Input;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Essentials;
-using Samples.Helpers;
+using MauiPOC.Helpers;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	class ShareViewModel : BaseViewModel
 	{

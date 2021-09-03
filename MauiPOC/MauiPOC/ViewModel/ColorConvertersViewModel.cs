@@ -5,7 +5,7 @@ using Microsoft.Maui.Controls;
 using Microsoft.Maui.Essentials;
 using Microsoft.Maui.Graphics;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	public class ColorConvertersViewModel : BaseViewModel
 	{

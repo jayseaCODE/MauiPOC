@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Graphics;
 
-namespace Samples.Helpers
+namespace MauiPOC.Helpers
 {
 	public static class ViewHelpers
 	{

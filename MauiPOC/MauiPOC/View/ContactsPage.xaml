@@ -1,8 +1,8 @@
-<view:BasePage x:Class="Samples.View.ContactsPage"
+<view:BasePage x:Class="MauiPOC.View.ContactsPage"
                xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-               xmlns:view="clr-namespace:Samples.View"
-               xmlns:viewmodel="clr-namespace:Samples.ViewModel"
+               xmlns:view="clr-namespace:MauiPOC.View"
+               xmlns:viewmodel="clr-namespace:MauiPOC.ViewModel"
                Title="Contacts">
 
     <view:BasePage.BindingContext>

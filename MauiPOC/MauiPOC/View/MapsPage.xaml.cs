@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls.Xaml;
 
-namespace Samples.View
+namespace MauiPOC.View
 {
 	public partial class MapsPage : BasePage
 	{

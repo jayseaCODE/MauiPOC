@@ -7,9 +7,9 @@ using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Controls.Xaml;
 using Microsoft.Maui.Essentials;
-using Samples.Model;
+using MauiPOC.Model;
 
-namespace Samples.View
+namespace MauiPOC.View
 {
 	public partial class PermissionsPage : BasePage
 	{

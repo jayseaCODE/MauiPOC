@@ -1,6 +1,6 @@
 using AppKit;
 
-namespace Samples.Mac
+namespace MauiPOC.Mac
 {
     static class MainClass
     {

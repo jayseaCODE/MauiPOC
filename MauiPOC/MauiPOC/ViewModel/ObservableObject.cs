@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	public class ObservableObject : INotifyPropertyChanged
 	{

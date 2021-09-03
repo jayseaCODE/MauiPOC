@@ -3,7 +3,7 @@ using System.Windows.Input;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 
-namespace Samples.View
+namespace MauiPOC.View
 {
 	public partial class TextToSpeechPage : BasePage
 	{

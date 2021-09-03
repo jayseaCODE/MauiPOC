@@ -1,4 +1,4 @@
-namespace Samples.View
+namespace MauiPOC.View
 {
 	public partial class ScreenshotPage : BasePage
 	{

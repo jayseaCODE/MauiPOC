@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Microsoft.Maui.Essentials;
-using Samples.Model;
+using MauiPOC.Model;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	public class PermissionsViewModel : BaseViewModel
 	{

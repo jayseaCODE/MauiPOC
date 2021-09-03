@@ -5,7 +5,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Xamarin.Forms.Platform.MacOS;
 
-namespace Samples.Mac
+namespace MauiPOC.Mac
 {
     [Register(nameof(AppDelegate))]
     public class AppDelegate : FormsApplicationDelegate

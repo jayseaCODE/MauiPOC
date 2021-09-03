@@ -1,9 +1,9 @@
 using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
-using Samples.Model;
+using MauiPOC.Model;
 
-namespace Samples.View
+namespace MauiPOC.View
 {
 	public partial class HomePage : BasePage
 	{

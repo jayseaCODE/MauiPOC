@@ -1,6 +1,6 @@
 using System;
 
-namespace Samples.Model
+namespace MauiPOC.Model
 {
 	public class SampleItem
 	{

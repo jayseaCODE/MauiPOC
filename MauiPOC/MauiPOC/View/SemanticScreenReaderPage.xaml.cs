@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Maui.Essentials;
 
-namespace Samples.View
+namespace MauiPOC.View
 {
 	public partial class SemanticScreenReaderPage : BasePage
 	{

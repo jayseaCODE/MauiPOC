@@ -1,6 +1,6 @@
 using UIKit;
 
-namespace Samples.iOS
+namespace MauiPOC.iOS
 {
 	public class Application
 	{

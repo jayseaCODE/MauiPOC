@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Essentials;
 
-namespace Samples.ViewModel
+namespace MauiPOC.ViewModel
 {
 	public class AppInfoViewModel : BaseViewModel
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
-using Xamarin.Forms.Maps;
+using Microsoft.Maui.Controls.Maps;
 
-namespace WorkingWithMaps
+namespace MauiPOC
 {
     static class RandomPosition
     {

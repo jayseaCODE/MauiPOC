@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:WorkingWithMaps"
-             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
-             x:Class="WorkingWithMaps.PinItemsSourcePage"
+             xmlns:local="clr-namespace:MauiPOC"
+             xmlns:maps="clr-namespace:Microsoft.Maui.Controls.Maps;assembly=Microsoft.Maui.Controls.Maps"
+             x:Class="MauiPOC.View.PinItemsSourcePage"
              Title="Databinding pins demo (Collection)"
              IconImageSource="glyphish_07_map_marker.png">
 <!--    <ContentPage.Resources>

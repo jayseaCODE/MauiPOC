@@ -1,8 +1,8 @@
 ﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Maps;
+using Microsoft.Maui; using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Maps;
 
-namespace WorkingWithMaps
+namespace MauiPOC.View
 {
     public partial class PinPage : ContentPage
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
-using Xamarin.Forms.Maps;
+using Microsoft.Maui.Controls.Maps;
 
-namespace WorkingWithMaps.ViewModels
+namespace MauiPOC.ViewModels
 {
     public class Location : INotifyPropertyChanged
     {

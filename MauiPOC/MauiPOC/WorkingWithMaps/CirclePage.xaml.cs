@@ -1,6 +1,6 @@
-﻿using Xamarin.Forms;
+﻿using Microsoft.Maui; using Microsoft.Maui.Controls;
 
-namespace WorkingWithMaps
+namespace MauiPOC.View
 {
     public partial class CirclePage : ContentPage
     {

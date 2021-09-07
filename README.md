@@ -1,5 +1,7 @@
 # MauiPOC
 
+Built by the MVVM pattern (<https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm>)
+
 ## To build Android
 
 run ```dotnet build -t:Run -f net6.0-android``` on command line

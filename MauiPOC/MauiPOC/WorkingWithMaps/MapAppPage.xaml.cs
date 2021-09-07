@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.Maui; using Microsoft.Maui.Controls;
-
+using Microsoft.Maui.Essentials;
 namespace MauiPOC.View
 {
     // WARNING: when adding latitude/longitude values be careful of localization.
